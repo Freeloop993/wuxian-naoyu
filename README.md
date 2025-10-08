@@ -4,7 +4,7 @@
 
 本指南旨在为中文用户提供对 Google 下一代 AI 模型——**Gemini 3.0** 的全面介绍，并提供一个**完全免费**的平台，让您能第一时间轻松上手体验其与 **GPT-5、Claude 4.5、Veo 3** 等所有前沿功能。
 
-<img width="1920" height="960" alt="無限腦域-AI 社区" src="[https://github.com/user-attachments/assets/8a222d85-dadc-47d5-be79-996c454c7d61](https://cdn.superintern.ai/media/chat_history_images/8753b1c7-aab1-4feb-9c97-56a0fc2e1b32/2b5de524-6846-4b1d-ae6c-e72afb992c0f.png)" />
+<img width="1920" height="960" alt="無限腦域-AI 社区" src="[[https://github.com/user-attachments/assets/8a222d85-dadc-47d5-be79-996c454c7d61]" />
 
 ---
 
